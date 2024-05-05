@@ -17,6 +17,27 @@ I blend academic knowledge with project experience, showcasing my ability to not
 
 I am always eager to collaborate on projects that challenge me to push the boundaries of my knowledge and skills. If you're looking for someone who is as curious about the questions as the answers, I'd love to connect!
 
+## Featured Project: Predicting Hospital Emergency Room Admissions in California
+
+### Overview
+This project leveraged predictive analytics to forecast daily Emergency Room (ER) admissions in hospitals across California, aiming to improve resource allocation and patient care efficiency.
+
+### Objective
+The goal was to identify key patterns and drivers in ER admissions to optimize staffing decisions and hospital management strategies.
+
+### Methodology
+- **Data Preparation:** Cleaned and preprocessed, focusing on ER-related metrics.
+- **Exploratory Data Analysis (EDA):** Utilized PCA, scatter plots, and heatmaps.
+- **Model Building:** Employed RandomForest, LightGBM, and a Stacked Ensemble model.
+
+### Key Findings
+- **Predictive Insights:** Significant predictors included net and gross patient revenue, bed availability, and staffing levels.
+- **Model Performance:** The Stacked Ensemble model showed superior accuracy, aiding strategic planning and resource allocation.
+
+### [Read More About This Project](URL-to-detailed-project-page-or-document)
+
+---
+
 ## Contact Me
 Feel free to reach out to me for opportunities, collaborations, or just a chat about data science:
 - Email: [salina.najera@gmail.com](mailto:salina.najera@gmail.com)
