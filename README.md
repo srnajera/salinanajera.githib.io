@@ -17,25 +17,18 @@ I blend academic knowledge with project experience, showcasing my ability to not
 
 I am always eager to collaborate on projects that challenge me to push the boundaries of my knowledge and skills. If you're looking for someone who is as curious about the questions as the answers, I'd love to connect!
 
-## Featured Project: Predicting Hospital Emergency Room Admissions in California
+## Featured Project: Hospital Financial Data Analysis
 
 ### Overview
-This project leveraged predictive analytics to forecast daily Emergency Room (ER) admissions in hospitals across California, aiming to improve resource allocation and patient care efficiency.
+Embarked on an analytical journey to understand the financial landscape of hospitals in California, this project leverages a comprehensive dataset to uncover patterns, predict net income, and explore financial disparities between urban and rural hospitals.
 
-### Objective
-The goal was to identify key patterns and drivers in ER admissions to optimize staffing decisions and hospital management strategies.
+### Highlights
+- **Descriptive Statistics:** Insight into key metrics like net income and operational hours, revealing significant variability.
+- **Comparative Analysis:** Financial disparities between Riverside (rural) and Los Angeles (urban) counties.
+- **Regression Analysis:** Predictability of nurse staffing levels with an R-squared value of 0.919.
+- **Correlation Analysis:** Positive correlation between net income and total operating expenses.
 
-### Methodology
-- **Data Preparation:** Cleaned and preprocessed, focusing on ER-related metrics.
-- **Exploratory Data Analysis (EDA):** Utilized PCA, scatter plots, and heatmaps.
-- **Model Building:** Employed RandomForest, LightGBM, and a Stacked Ensemble model.
-
-### Key Findings
-- **Predictive Insights:** Significant predictors included net and gross patient revenue, bed availability, and staffing levels.
-- **Model Performance:** The Stacked Ensemble model showed superior accuracy, aiding strategic planning and resource allocation.
-
-### [Read More About This Project](https://github.com/srnajera/NajeraDSC530-FinalProject/tree/main)
-
+### [Read More](https://github.com/srnajera/NajeraDSC530-FinalProject/tree/main)
 ---
 
 ## Contact Me
