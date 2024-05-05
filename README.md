@@ -34,7 +34,7 @@ The goal was to identify key patterns and drivers in ER admissions to optimize s
 - **Predictive Insights:** Significant predictors included net and gross patient revenue, bed availability, and staffing levels.
 - **Model Performance:** The Stacked Ensemble model showed superior accuracy, aiding strategic planning and resource allocation.
 
-### [Read More About This Project](URL-to-detailed-project-page-or-document)
+### [Read More About This Project](https://github.com/srnajera/NajeraDSC530-FinalProject/tree/main)
 
 ---
 
