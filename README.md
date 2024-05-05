@@ -16,3 +16,7 @@ Here's a snapshot of the skills I've honed during my graduate studies:
 I blend academic knowledge with project experience, showcasing my ability to not only analyze data but to also implement solutions that can bring about innovation and efficiency. Through my graduate projects, I've explored areas like predictive analytics, natural language processing, and time series analysis, all while emphasizing ethical considerations in data handling and analysis.
 
 I am always eager to collaborate on projects that challenge me to push the boundaries of my knowledge and skills. If you're looking for someone who is as curious about the questions as the answers, I'd love to connect!
+
+## Contact Me
+Feel free to reach out to me for opportunities, collaborations, or just a chat about data science:
+- Email: [salina.najera@gmail.com](mailto:salina.najera@gmail.com)
