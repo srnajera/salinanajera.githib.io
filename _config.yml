@@ -1,5 +1,19 @@
 title: Salina Najera
 logo: /assets/img/headshot.jpg
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/salina-n-3440009a/">LinkedIn</a> |
+  <a href="https://github.com/srnajera">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  I am pursing MS degree in Business Analytics at Simon Business School, University of Rochester.
+  <br><br>
+  I am currently a Machine Learning Research Intern at Skim AI Technologies with a focus on NLP and Deep Learning research.
+  <br><br>
+  </p>
 github_project_url: https://srnajera.github.io/salinanajera.githib.io/
 show_downloads: false
 theme: jekyll-theme-minimal
