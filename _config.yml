@@ -1,6 +1,6 @@
 title: Salina Najera
 logo: /assets/img/headshot.jpg
-[View my GitHub Projects]({{ https://srnajera.github.io/salinanajera.githib.io/ }})
+github_project_url: https://srnajera.github.io/salinanajera.githib.io/
 #description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
