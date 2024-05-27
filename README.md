@@ -108,5 +108,17 @@ Embarked on an analytical journey to understand the financial landscape of hospi
    - **Key Insights:** Variability in net income, disparities between urban and rural hospitals, strong predictability of staffing levels.
    - **Technologies Used:** Python, Pandas, Matplotlib, Statsmodels
    - **Files:** 
-     - [Hospital Financial Data Analysis Notebook](https://github.com/srnajera
+     - [Hospital Financial Data Analysis Notebook](https://github.com/srnajera/Hospital-Financial-Data-Analysis/blob/main/Hospital_Financial_Data_Analysis.ipynb)
+     - [Data File](https://github.com/srnajera/Hospital-Financial-Data-Analysis/tree/main/data)
+
+## Contact
+
+For inquiries, please reach out via:
+- **Email:** salina.najera@example.com
+- **LinkedIn:** [Salina Najera](https://www.linkedin.com/in/salina-najera)
+
+## Repository Access
+
+Visit the repository on GitHub to explore the projects and code:
+[Data Science Portfolio Repository](https://github.com/srnajera/salinanajera.github.io)
 
