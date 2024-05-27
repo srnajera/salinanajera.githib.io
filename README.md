@@ -102,7 +102,7 @@ Embarked on an analytical journey to understand the financial landscape of hospi
      - Predictive analytics to forecast future fraud trends.
      - Automated compliance reporting adapting dynamically to regulatory changes.
      - Real-time monitoring and analytics dashboard for immediate threat response.
-   - **Technologies Used:**
+     - **Technologies Used:**
      - Apache Hadoop for scalable data storage.
      - Apache Kafka for real-time data processing.
      - Apache Spark for high-speed advanced analytics.
