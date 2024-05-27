@@ -106,8 +106,7 @@ Embarked on an analytical journey to understand the financial landscape of hospi
 ## Contact
 
 For inquiries, please reach out via:
-- **Email:** salina.najera@example.com
-- **LinkedIn:** [Salina Najera](https://www.linkedin.com/in/salina-najera)
+- **Email:** salina.najera@gmail.com
 
 ## Repository Access
 
