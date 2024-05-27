@@ -3,17 +3,18 @@ logo: /assets/img/headshot.jpg
 
 description: |
   <p align="center">
-  <a href="https://github.com/srnajera/salinanajera.github.io/raw/main/docs/Resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/salina-n-3440009a/">LinkedIn</a> |
-  <a href="https://github.com/srnajera">GitHub</a>
+    <a href="https://github.com/srnajera/salinanajera.github.io/raw/main/docs/Resume.pdf">Resume</a> |
+    <a href="https://www.linkedin.com/in/salina-n-3440009a/">LinkedIn</a> |
+    <a href="https://github.com/srnajera">GitHub</a>
   </p>
 
   <p align="justify">
-  I am pursuing an MS degree in Data Science at Bellevue University.
-  <br><br>
-  I am currently an Enterprise Account Executive at Infosec Institute helping organizations and professionals obtain advanced cybersecurity certifications.
-  <br><br>
+    I am pursuing an MS degree in Data Science at Bellevue University.
+    <br><br>
+    I am currently an Enterprise Account Executive at Infosec Institute helping organizations and professionals obtain advanced cybersecurity certifications.
+    <br><br>
   </p>
+
 github_project_url: https://srnajera.github.io/salinanajera.github.io/
 show_downloads: false
 theme: jekyll-theme-minimal
