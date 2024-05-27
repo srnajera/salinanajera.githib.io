@@ -106,9 +106,3 @@ Embarked on an analytical journey to understand the financial landscape of hospi
 
 For inquiries, please reach out via:
 - **Email:** salina.najera@gmail.com
-
-## Repository Access
-
-Visit the repository on GitHub to explore the projects and code:
-[Data Science Portfolio Repository](https://github.com/srnajera/salinanajera.github.io)
-
