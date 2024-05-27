@@ -37,8 +37,7 @@ Embarked on an analytical journey to understand the financial landscape of hospi
    - **Key Insights:** Significant variability in net income, strong predictability of nurse staffing levels, and correlation between operating expenses and net income.
    - **Technologies Used:** Python, Pandas, Matplotlib, Statsmodels
    - **Files:** 
-     - [Hospital Financial Data Analysis Notebook](https://github.com/srnajera/Hospital-Financial-Data-Analysis/blob/main/Hospital_Financial_Data_Analysis.ipynb)
-     - [Data File](https://github.com/srnajera/Hospital-Financial-Data-Analysis/tree/main/data)
+     - [Hospital Financial Data Analysis Notebook](https://github.com/srnajera/Hospital-Financial-Data-Analysis/tree/main)
 
 2. **MovieLens Genre-Based Recommender System**
    - **Overview:** A content-based filtering system using movie genres to recommend movies.
