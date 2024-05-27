@@ -54,5 +54,59 @@ Embarked on an analytical journey to understand the financial landscape of hospi
    - **Technologies Used:** Python, Scikit-learn, LightGBM, RandomForest
    - **Files:**
      - [ER Admissions Prediction Notebook](https://github.com/srnajera/Predicting-Hospital-Emergency-Room-Admissions-in-California/blob/main/ER_Admissions_Prediction.ipynb)
-     - [Data File](https://github
+     - [Data File](https://github.com/srnajera/Predicting-Hospital-Emergency-Room-Admissions-in-California/tree/main/data)
+
+4. **The Safety of Air Travel**
+   - **Overview:** Statistical analysis of air travel safety compared to other modes of transport.
+   - **Key Insights:** Air travel is significantly safer with continuous improvements in safety measures.
+   - **Technologies Used:** Python, Matplotlib, Pandas
+   - **Files:**
+     - [Air Travel Safety Notebook](https://github.com/srnajera/The-Safety-of-Air-Travel/blob/main/Air_Travel_Safety_Analysis.ipynb)
+     - [Data File](https://github.com/srnajera/The-Safety-of-Air-Travel/tree/main/data)
+
+5. **Time Series Analysis of US Retail Sales**
+   - **Overview:** Time series modeling of US retail sales data from 1992 to 2021.
+   - **Key Insights:** Identified trends and seasonality in retail sales with predictive modeling.
+   - **Technologies Used:** Python, Statsmodels, Pandas, Matplotlib
+   - **Files:**
+     - [Retail Sales Time Series Notebook](https://github.com/srnajera/Time-Series-Analysis-of-US-Retail-Sales/blob/main/US_Retail_Sales_Time_Series_Analysis.ipynb)
+     - [Data File](https://github.com/srnajera/Time-Series-Analysis-of-US-Retail-Sales/tree/main/data)
+
+6. **Comprehensive Report on Financial Risk Analysis**
+   - **Overview:** Predictive model identifying hospitals at financial risk using key financial metrics.
+   - **Key Insights:** GBM model proved most effective in predicting financial distress.
+   - **Technologies Used:** Python, Scikit-learn, GradientBoosting, RandomForest
+   - **Files:**
+     - [Financial Risk Analysis Notebook](https://github.com/srnajera/Financial-Risk-Analysis/blob/main/Financial_Risk_Analysis.ipynb)
+     - [Data File](https://github.com/srnajera/Financial-Risk-Analysis/tree/main/data)
+
+7. **Weather Forecast Application**
+   - **Overview:** Python application interfacing with OpenWeatherMap API to provide weather forecasts.
+   - **Key Insights:** User-friendly interface allowing multiple lookups and temperature unit selection.
+   - **Technologies Used:** Python, Requests
+   - **Files:**
+     - [Weather Forecast Application Code](https://github.com/srnajera/Weather-Forecast-Application/blob/main/weather_forecast.py)
+
+8. **West Design Technologies Productivity and Efficiency Analysis**
+   - **Overview:** Analysis of productivity and operational efficiency at West Design Technologies.
+   - **Key Insights:** Identified labor cost variability and efficiency trends through detailed evaluation.
+   - **Technologies Used:** Python, Pandas, Matplotlib
+   - **Files:**
+     - [Productivity and Efficiency Analysis Notebook](https://github.com/srnajera/Productivity-and-Efficiency-Analysis/blob/main/Productivity_and_Efficiency_Analysis.ipynb)
+     - [Data File](https://github.com/srnajera/Productivity-and-Efficiency-Analysis/tree/main/data)
+
+9. **Analyzing the Impact of Higher Education on Economic Growth**
+   - **Overview:** Data-driven exploration of the relationship between education, economic growth, and employment rates.
+   - **Key Insights:** Visualized the dynamic relationship between higher education and economic indicators.
+   - **Technologies Used:** Python, Pandas, Matplotlib, PowerBI
+   - **Files:**
+     - [Higher Education Analysis Notebook](https://github.com/srnajera/Exploring-the-Impact-of-Higher-Education-on-Employment-and-Economic-Growth-Across-U.S.-States/blob/main/Higher_Education_Analysis.ipynb)
+     - [Data File](https://github.com/srnajera/Exploring-the-Impact-of-Higher-Education-on-Employment-and-Economic-Growth-Across-U.S.-States/tree/main/data)
+
+10. **Hospital Financial Data Analysis: A Statistical Exploration**
+   - **Overview:** A detailed statistical analysis of financial data from hospitals in California, exploring financial metrics and disparities.
+   - **Key Insights:** Variability in net income, disparities between urban and rural hospitals, strong predictability of staffing levels.
+   - **Technologies Used:** Python, Pandas, Matplotlib, Statsmodels
+   - **Files:** 
+     - [Hospital Financial Data Analysis Notebook](https://github.com/srnajera
 
