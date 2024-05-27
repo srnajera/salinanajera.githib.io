@@ -95,7 +95,7 @@ Embarked on an analytical journey to understand the financial landscape of hospi
    - **Files:**
      - [Higher Education Analysis Notebook](https://github.com/srnajera/Exploring-the-Impact-of-Higher-Education-on-Employment-and-Economic-Growth-Across-U.S.-States)
 
-10. **AI-Driven Fraud Detection and AML Compliance Platform**
+9. **AI-Driven Fraud Detection and AML Compliance Platform**
    - **Overview:** This project aims to combat credit card fraud and enhance Anti-Money Laundering (AML) compliance using an advanced AI-driven analytics platform. The platform leverages a robust technology stack and sophisticated machine learning models to protect financial transactions, ensure regulatory compliance, and maintain customer trust.
    - **Key Insights:** Real-time fraud detection and prevention using anomaly detection models. Predictive analytics to forecast future fraud trends. Automated compliance reporting adapting dynamically to regulatory changes. Real-time monitoring and analytics dashboard for immediate threat response.
    - **Technologies Used:** Apache Hadoop, Apache Kafka, Apache Spark, Apache HBase, Neo4j, Apache NiFi
