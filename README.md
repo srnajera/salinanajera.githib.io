@@ -97,10 +97,21 @@ Embarked on an analytical journey to understand the financial landscape of hospi
 
 10. **AI-Driven Fraud Detection and AML Compliance Platform**
    - **Overview:** This project aims to combat credit card fraud and enhance Anti-Money Laundering (AML) compliance using an advanced AI-driven analytics platform. The platform leverages a robust technology stack and sophisticated machine learning models to protect financial transactions, ensure regulatory compliance, and maintain customer trust.
-   - **Key Insights:** Real-time fraud detection and prevention using anomaly detection models
-   - **Technologies Used:** Apache Hadoop for scalable data storage.
+   - **Key Insights:**
+     - Real-time fraud detection and prevention using anomaly detection models.
+     - Predictive analytics to forecast future fraud trends.
+     - Automated compliance reporting adapting dynamically to regulatory changes.
+     - Real-time monitoring and analytics dashboard for immediate threat response.
+   - **Technologies Used:** 
+     - Apache Hadoop for scalable data storage.
+     - Apache Kafka for real-time data processing.
+     - Apache Spark for high-speed advanced analytics.
+     - Apache HBase for real-time data access.
+     - Neo4j for analyzing complex relationships.
+     - Apache NiFi for data ingestion and flow automation.
    - **Files:**
      - [AI-Driven Platform Notebook](https://github.com/srnajera/AI-Driven-Fraud-Detection-and-AML-Compliance-Platform/tree/main)
+
 
 
 
