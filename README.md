@@ -32,7 +32,7 @@ Embarked on an analytical journey to understand the financial landscape of hospi
 
 ## Portfolio Projects
 
-1. **Hospital Financial Data Analysis**
+1. **Hospital Financial Data Analysis: A Statistical Exploration**
    - **Overview:** An analytical journey to understand the financial landscape of hospitals in California.
    - **Key Insights:** Significant variability in net income, strong predictability of nurse staffing levels, and correlation between operating expenses and net income.
    - **Technologies Used:** Python, Pandas, Matplotlib, Statsmodels
