@@ -97,7 +97,7 @@ Embarked on an analytical journey to understand the financial landscape of hospi
 
 10. **AI-Driven Fraud Detection and AML Compliance Platform**
    - **Overview:** This project aims to combat credit card fraud and enhance Anti-Money Laundering (AML) compliance using an advanced AI-driven analytics platform. The platform leverages a robust technology stack and sophisticated machine learning models to protect financial transactions, ensure regulatory compliance, and maintain customer trust.
-   - **Key Insights:** 
+   - **Key Insights:**
      - Real-time fraud detection and prevention using anomaly detection models.
      - Predictive analytics to forecast future fraud trends.
      - Automated compliance reporting adapting dynamically to regulatory changes.
