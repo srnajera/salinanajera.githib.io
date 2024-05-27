@@ -72,7 +72,7 @@ Embarked on an analytical journey to understand the financial landscape of hospi
    - **Key Insights:** GBM model proved most effective in predicting financial distress.
    - **Technologies Used:** Python, Scikit-learn, GradientBoosting, RandomForest
    - **Files:**
-     - [Financial Risk Analysis Notebook]()
+     - [Financial Risk Analysis Notebook](https://github.com/srnajera/Comprehensive-Report-on-Financial-Risk-Analysis-in-Hospital-Management)
 
 7. **Weather Forecast Application**
    - **Overview:** Python application interfacing with OpenWeatherMap API to provide weather forecasts.
