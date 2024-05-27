@@ -52,7 +52,6 @@ Embarked on an analytical journey to understand the financial landscape of hospi
    - **Technologies Used:** Python, Scikit-learn, LightGBM, RandomForest
    - **Files:**
      - [ER Admissions Prediction Notebook](https://github.com/srnajera/Predicting-Hospital-Emergency-Room-Admissions-in-California)
-     - [Data File](https://github.com/srnajera/Predicting-Hospital-Emergency-Room-Admissions-in-California/tree/main/data)
 
 4. **The Safety of Air Travel**
    - **Overview:** Statistical analysis of air travel safety compared to other modes of transport.
