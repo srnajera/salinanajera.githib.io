@@ -100,8 +100,8 @@ Embarked on an analytical journey to understand the financial landscape of hospi
    - **Overview:** This project aims to combat credit card fraud and enhance Anti-Money Laundering (AML) compliance using an advanced AI-driven analytics platform. The platform leverages a robust technology stack and sophisticated machine learning models to protect financial transactions, ensure regulatory compliance, and maintain customer trust.
    - **Key Insights:** Real-time fraud detection and prevention using anomaly detection models.
    - **Technologies Used:** Apache Hadoop, Apache Kafka, Apache Spark, Apache HBase, Neo4j, Apache NiFi
-   - **Files:**
-     - [AI-Driven Platform Notebook](https://github.com/srnajera/AI-Driven-Fraud-Detection-and-AML-Compliance-Platform/tree/main)
+   - **Files:** 
+    - [AI-Driven Platform Notebook](https://github.com/srnajera/AI-Driven-Fraud-Detection-and-AML-Compliance-Platform/tree/main)
 
 ## Contact
 
