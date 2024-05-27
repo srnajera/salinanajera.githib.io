@@ -110,7 +110,7 @@ Embarked on an analytical journey to understand the financial landscape of hospi
      - Neo4j for analyzing complex relationships.
      - Apache NiFi for data ingestion and flow automation.
    - **Files:**
-      - [AI-Driven Platform Notebook](https://github.com/srnajera/AI-Driven-Fraud-Detection-and-AML-Compliance-Platform/tree/main)
+     - [AI-Driven Platform Notebook](https://github.com/srnajera/AI-Driven-Fraud-Detection-and-AML-Compliance-Platform/tree/main)
 
 
 ## Contact
