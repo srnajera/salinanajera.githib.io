@@ -3,7 +3,7 @@ logo: /assets/img/headshot.jpg
 
 description: |
   <p align="center">
-    <a href="https://github.com/srnajera/salinanajera.githib.io/blob/main/docs/Resume.pdf">Resume</a> |
+    <a href="docs/Resume.pdf">Resume</a> |
     <a href="https://www.linkedin.com/in/salina-n-3440009a/">LinkedIn</a> |
     <a href="https://github.com/srnajera">GitHub</a>
   </p>
@@ -18,11 +18,6 @@ description: |
 github_project_url: https://srnajera.github.io/salinanajera.github.io/
 show_downloads: false
 theme: jekyll-theme-minimal
-
-# Add your social links
-linkedin_url: https://www.linkedin.com/in/salina-n-3440009a/
-github_url: https://github.com/srnajera
-resume_url: https://github.com/srnajera/salinanajera.githib.io/blob/main/docs/Resume.pdf
 
 
 
