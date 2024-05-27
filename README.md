@@ -97,6 +97,15 @@ Embarked on an analytical journey to understand the financial landscape of hospi
      - ![Correlation with Employment](https://github.com/srnajera/salinanajera.github.io/blob/main/images/correlation%20w%20employment.png)
      - [AI-Driven Platform Notebook](https://github.com/srnajera/AI-Driven-Fraud-Detection-and-AML-Compliance-Platform/tree/main)
 
+9. **Analyzing the Impact of Higher Education on Economic Growth**
+   - **Overview:** Data-driven exploration of the relationship between education, economic growth, and employment rates.
+   - **Key Insights:** Visualized the dynamic relationship between higher education and economic indicators.
+   - **Technologies Used:** Python, Pandas, Matplotlib, PowerBI
+   - **Files:**
+     - [Higher Education Analysis Notebook](https://github.com/srnajera/Exploring-the-Impact-of-Higher-Education-on-Employment-and-Economic-Growth-Across-U.S.-States)
+     - ![Correlation with Employment](https://github.com/srnajera/salinanajera.github.io/blob/main/images/correlation%20w%20employment.png)
+     - [AI-Driven Platform Notebook](https://github.com/srnajera/AI-Driven-Fraud-Detection-and-AML-Compliance-Platform/tree/main)
+
 10. **AI-Driven Fraud Detection and AML Compliance Platform**
    - **Overview:** This project aims to combat credit card fraud and enhance Anti-Money Laundering (AML) compliance using an advanced AI-driven analytics platform. The platform leverages a robust technology stack and sophisticated machine learning models to protect financial transactions, ensure regulatory compliance, and maintain customer trust.
    - **Key Insights:** Real-time fraud detection and prevention using anomaly detection models. Predictive analytics to forecast future fraud trends. Automated compliance reporting adapting dynamically to regulatory changes. Real-time monitoring and analytics dashboard for immediate threat response.
