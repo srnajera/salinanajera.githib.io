@@ -1,5 +1,5 @@
 # About Me
-Hello! I'm Salina, a passionate Data Science graduate student committed to turning complex data into actionable insights that drive strategic business decisions. With a keen analytical mindset and a strong foundation in statistical methods and machine learning, I am on a quest to unlock the stories hidden within data.
+Hello! I'm Salina, a passionate Data Science graduate committed to turning complex data into actionable insights that drive strategic business decisions. With a keen analytical mindset and a strong foundation in statistical methods and machine learning, I am on a quest to unlock the stories hidden within data.
 
 ## My Journey
 I ventured into the realm of data science out of a profound curiosity for understanding patterns and a desire to solve real-world problems through quantitative analysis. My academic journey has been a blend of rigorous coursework, practical projects, and collaborative learning, all of which have equipped me with a deep understanding of data science principles and practices.
